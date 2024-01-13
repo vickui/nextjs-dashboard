@@ -8,6 +8,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>Test App</title>
+        <meta
+          name="description"
+          content="NextJS Test App to improve my coding skills."
+        ></meta>
+      </head>
       <body className={`${outfit.className} antialiased`}>{children}</body>
     </html>
   );

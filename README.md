@@ -6,6 +6,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 [Dashboard App](https://nextjs-dashboard-one-blue-22.vercel.app/)
 
-Dashboard User 
-user@nextmail.com 
+Dashboard User
+user@nextmail.com
 123456
